@@ -1,4 +1,4 @@
-# [Two Sum - LeetCode](https://leetcode.com/problems/two-sum/submissions/1966747763/)
+# [Two Sum - LeetCode](https://leetcode.com/problems/two-sum/)
 
 **Difficulty:** Unknown
 
